@@ -2,7 +2,7 @@
   "name": "web_project_around_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BellAparicio3.github.io/web_project_around_react",
+  "homepage": "https://bellaparicio3.github.io/web_project_around_react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
