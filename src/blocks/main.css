@@ -1,0 +1,24 @@
+.main {
+  display: grid;
+  /* R O W / C O L U M S */
+  grid-template: 0.1fr 0.1fr/repeat(3, 1fr);
+  grid-template-areas:
+    "profile profile profile"
+    "cards cards cards";
+  grid-area: main;
+  justify-content: center;
+  align-items: center;
+} 
+
+@media screen and (min-width: 320px) and (max-width: 520px) {
+  .main {
+    display: grid;
+    grid-template: repeat(2, 0.1fr) / 1fr;
+    grid-template-areas:
+      "profile"
+      "cards";
+    grid-area: main;
+    /* justify-content: center;
+    align-items: center; */
+  }
+}
