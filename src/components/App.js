@@ -67,7 +67,6 @@ function App() {
     setSelectedCard(null);
   }
   function handleUpdateUser(userInfo) {
-    console.log(userInfo)
     api.setUserInfo(userInfo)
     .then((newUserInfo) =>{
       setCurrentUser(newUserInfo);
