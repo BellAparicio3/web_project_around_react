@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/web_project_around_react/static/css/main.5789cf93.css",
-    "main.js": "/web_project_around_react/static/js/main.0b349c71.js",
+    "main.css": "/web_project_around_react/static/css/main.d9a3dd12.css",
+    "main.js": "/web_project_around_react/static/js/main.d81c35e4.js",
     "static/js/453.8d428687.chunk.js": "/web_project_around_react/static/js/453.8d428687.chunk.js",
-    "static/media/melody.jpg": "/web_project_around_react/static/media/melody.c6542a8d0d0bfd6afad6.jpg",
     "index.html": "/web_project_around_react/index.html",
     "static/media/edition.svg": "/web_project_around_react/static/media/edition.6c7bf05444b9793fdf6e.svg",
     "static/media/heart_black.svg": "/web_project_around_react/static/media/heart_black.0be7150ce7b5c0a1987b.svg",
     "static/media/plus.svg": "/web_project_around_react/static/media/plus.bed8c136e13907f5eefb.svg",
-    "main.5789cf93.css.map": "/web_project_around_react/static/css/main.5789cf93.css.map",
-    "main.0b349c71.js.map": "/web_project_around_react/static/js/main.0b349c71.js.map",
+    "main.d9a3dd12.css.map": "/web_project_around_react/static/css/main.d9a3dd12.css.map",
+    "main.d81c35e4.js.map": "/web_project_around_react/static/js/main.d81c35e4.js.map",
     "453.8d428687.chunk.js.map": "/web_project_around_react/static/js/453.8d428687.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5789cf93.css",
-    "static/js/main.0b349c71.js"
+    "static/css/main.d9a3dd12.css",
+    "static/js/main.d81c35e4.js"
   ]
 }
